@@ -3,8 +3,8 @@ import Link from "next/link";
 export const Navbar = () => {
     return (
         <nav className="bg-neutral-800 text-neutral-400 p-4 sm:p-5 md:flex md:justify-between md:items-center">
-            <div className="container mx-auto flex flex-col md:flex-row justify-between items-center md:items-center">
-                <div className="mr-auto ml-0">
+            <div className="container  flex flex-col md:flex-row justify-between items-center md:items-center">
+                <div className="ml-16">
                     <a href="" className="text-xl font-bold">
                         হাদিস সমূহ
                     </a>
